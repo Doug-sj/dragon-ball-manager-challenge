@@ -1,5 +1,7 @@
 # Dragon ball manager challenge
 
+Copiado do repositório de @lalizita no github
+
 Esta é uma aplicação para você poder invocar Shenlong, porém ela tem alguns probleminhas, e além desses probleminhas pra serem resolvidos vocês precisam adicionar testes.
 
 Ja temos o [Jest](https://jestjs.io/), [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) e [Cypress](https://www.cypress.io/) instalados. Todas essas libs são ferramentas de testes
